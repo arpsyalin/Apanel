@@ -1,0 +1,4 @@
+namespace APanel
+{
+int Isweblink();
+}

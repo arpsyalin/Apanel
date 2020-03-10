@@ -1,0 +1,968 @@
+---- hash Matches (986 in 88 files) ----
+APIchunk0.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIchunk0.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIchunk0.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIchunk0.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIchunk0.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk0.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk1.html (doc):<a href="html/libxml-hash.html#xmlHashCopier">xmlHashCopier</a><br />
+APIchunk1.html (doc):<a href="html/libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a><br />
+APIchunk1.html (doc):<a href="html/libxml-hash.html#xmlHashScanner">xmlHashScanner</a><br />
+APIchunk1.html (doc):<a href="html/libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a><br />
+APIchunk10.html (doc):</dd><dt>addition</dt><dd><a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIchunk10.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIchunk10.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIchunk10.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIchunk10.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk10.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk10.html (doc):</dd><dt>aliasing</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk10.html (doc):</dd><dt>applied</dt><dd><a href="html/libxml-hash.html#xmlHashCopy">xmlHashCopy</a><br />
+APIchunk10.html (doc):<a href="html/libxml-hash.html#xmlHashScan">xmlHashScan</a><br />
+APIchunk10.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk10.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull">xmlHashScanFull</a><br />
+APIchunk10.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk11.html (doc):</dd><dt>broke</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk12.html (doc):</dd><dt>casting</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk12.html (doc):</dd><dt>comparison</dt><dd><a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk12.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk12.html (doc):</dd><dt>considered</dt><dd><a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk12.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk12.html (doc):<a href="html/libxml-hash.html#xmlHashFree">xmlHashFree</a><br />
+APIchunk12.html (doc):</dd><dt>copier</dt><dd><a href="html/libxml-hash.html#xmlHashCopy">xmlHashCopy</a><br />
+APIchunk13.html (doc):<a href="html/libxml-hash.html#xmlHashFree">xmlHashFree</a><br />
+APIchunk13.html (doc):</dd><dt>deallocator</dt><dd><a href="html/libxml-hash.html#xmlHashFree">xmlHashFree</a><br />
+APIchunk13.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIchunk13.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIchunk13.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIchunk13.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIchunk13.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk13.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk13.html (doc):<a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk13.html (doc):<a href="html/libxml-hash.html#xmlHashCreateDict">xmlHashCreateDict</a><br />
+APIchunk13.html (doc):</dd><dt>disabled</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk14.html (doc):<a href="html/libxml-hash.html#xmlHashCopy">xmlHashCopy</a><br />
+APIchunk14.html (doc):<a href="html/libxml-hash.html#xmlHashScan">xmlHashScan</a><br />
+APIchunk14.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk14.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull">xmlHashScanFull</a><br />
+APIchunk14.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk14.html (doc):<a href="html/libxml-hash.html#xmlHashSize">xmlHashSize</a><br />
+APIchunk14.html (doc):</dd><dt>encountering</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk14.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIchunk14.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIchunk14.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk14.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk15.html (doc):</dd><dt>fptr</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk15.html (doc):<a href="html/libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a><br />
+APIchunk16.html (doc):</dd><dt>gcc</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk16.html (doc):</dd><dt>gcc4</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk16.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIchunk16.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIchunk16.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashSize">xmlHashSize</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashCopy">xmlHashCopy</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashFree">xmlHashFree</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashScan">xmlHashScan</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull">xmlHashScanFull</a><br />
+APIchunk17.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk18.html (doc):</dd><dt>later</dt><dd><a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIchunk18.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIchunk18.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIchunk18.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIchunk18.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk18.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk19.html (doc):<a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk19.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk19.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk2.html (doc):</dd><dt>Duplicate</dt><dd><a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIchunk2.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIchunk2.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIchunk2.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIchunk2.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIchunk2.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIchunk2.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIchunk2.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk2.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk20.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIchunk20.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk20.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk20.html (doc):</dd><dt>now</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk20.html (doc):</dd><dt>null</dt><dd><a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk20.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk21.html (doc):<a href="html/libxml-hash.html#xmlHashCreate">xmlHashCreate</a><br />
+APIchunk21.html (doc):<a href="html/libxml-hash.html#xmlHashCreateDict">xmlHashCreateDict</a><br />
+APIchunk22.html (doc):<a href="html/libxml-hash.html#xmlHashScan">xmlHashScan</a><br />
+APIchunk22.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk22.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull">xmlHashScanFull</a><br />
+APIchunk22.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk23.html (doc):</dd><dt>removal</dt><dd><a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk23.html (doc):</dd><dt>replaced</dt><dd><a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk23.html (doc):</dd><dt>retrieved</dt><dd><a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk23.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk23.html (doc):</dd><dt>rules</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk24.html (doc):</h2><h2>Letter s:</h2><dl><dt>s390</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk24.html (doc):</dd><dt>scanner</dt><dd><a href="html/libxml-hash.html#xmlHashScan">xmlHashScan</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull">xmlHashScanFull</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashScanner">xmlHashScanner</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a><br />
+APIchunk24.html (doc):</dd><dt>scanning</dt><dd><a href="html/libxml-hash.html#xmlHashScanner">xmlHashScanner</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a><br />
+APIchunk24.html (doc):</dd><dt>scannner</dt><dd><a href="html/libxml-hash.html#xmlHashScanner">xmlHashScanner</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashScanner">xmlHashScanner</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk24.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk25.html (doc):</dd><dt>third</dt><dd><a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashLookup3">xmlHashLookup3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup3">xmlHashQLookup3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk25.html (doc):</dd><dt>tuple</dt><dd><a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashLookup2">xmlHashLookup2</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashLookup3">xmlHashLookup3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup2">xmlHashQLookup2</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup3">xmlHashQLookup3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIchunk25.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIchunk25.html (doc):</dd><dt>tuples</dt><dd><a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIchunk26.html (doc):</dd><dt>violated</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk26.html (doc):</dd><dt>void</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk27.html (doc):</dd><dt>warning</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk27.html (doc):</dd><dt>without</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk28.html (doc):</dd><dt>xmlHashTablePtr</dt><dd><a href="html/libxml-hash.html#xmlHashCreate">xmlHashCreate</a><br />
+APIchunk28.html (doc):<a href="html/libxml-hash.html#xmlHashCreateDict">xmlHashCreateDict</a><br />
+APIchunk3.html (doc):<a href="html/libxml-hash.html#xmlHashLookup">xmlHashLookup</a><br />
+APIchunk3.html (doc):<a href="html/libxml-hash.html#xmlHashLookup2">xmlHashLookup2</a><br />
+APIchunk3.html (doc):<a href="html/libxml-hash.html#xmlHashLookup3">xmlHashLookup3</a><br />
+APIchunk3.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup">xmlHashQLookup</a><br />
+APIchunk3.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup2">xmlHashQLookup2</a><br />
+APIchunk3.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup3">xmlHashQLookup3</a><br />
+APIchunk3.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIchunk3.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIchunk3.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIchunk3.html (doc):<a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIchunk6.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup">xmlHashQLookup</a><br />
+APIchunk6.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup2">xmlHashQLookup2</a><br />
+APIchunk6.html (doc):<a href="html/libxml-hash.html#xmlHashSize">xmlHashSize</a><br />
+APIchunk7.html (doc):</dd><dt>Scan</dt><dd><a href="html/libxml-hash.html#xmlHashCopy">xmlHashCopy</a><br />
+APIchunk7.html (doc):<a href="html/libxml-hash.html#xmlHashScan">xmlHashScan</a><br />
+APIchunk7.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIchunk7.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull">xmlHashScanFull</a><br />
+APIchunk7.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIchunk9.html (doc):</dd><dt>XML_CAST_FPTR</dt><dd><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIconstructors.html (doc):<a href="html/libxml-hash.html#xmlHashCopier">xmlHashCopier</a><br />
+APIconstructors.html (doc):<a href="html/libxml-hash.html#xmlHashLookup">xmlHashLookup</a><br />
+APIconstructors.html (doc):<a href="html/libxml-hash.html#xmlHashLookup2">xmlHashLookup2</a><br />
+APIconstructors.html (doc):<a href="html/libxml-hash.html#xmlHashLookup3">xmlHashLookup3</a><br />
+APIconstructors.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup">xmlHashQLookup</a><br />
+APIconstructors.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup2">xmlHashQLookup2</a><br />
+APIconstructors.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup3">xmlHashQLookup3</a><br />
+APIconstructors.html (doc):</p><h2>Type xmlHashTablePtr:</h2><p><a href="html/libxml-hash.html#xmlHashCopy">xmlHashCopy</a><br />
+APIconstructors.html (doc):<a href="html/libxml-hash.html#xmlHashCreate">xmlHashCreate</a><br />
+APIconstructors.html (doc):<a href="html/libxml-hash.html#xmlHashCreateDict">xmlHashCreateDict</a><br />
+APIfiles.html (doc):</p><h2><a name="hash" id="hash">Module hash</a>:</h2><p><a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashCopier">xmlHashCopier</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashCopy">xmlHashCopy</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashCreate">xmlHashCreate</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashCreateDict">xmlHashCreateDict</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashFree">xmlHashFree</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashLookup">xmlHashLookup</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashLookup2">xmlHashLookup2</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashLookup3">xmlHashLookup3</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup">xmlHashQLookup</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup2">xmlHashQLookup2</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup3">xmlHashQLookup3</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashScan">xmlHashScan</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull">xmlHashScanFull</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashScanner">xmlHashScanner</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashSize">xmlHashSize</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashTable">xmlHashTable</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIfiles.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashLookup">xmlHashLookup</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashLookup2">xmlHashLookup2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashLookup3">xmlHashLookup3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup">xmlHashQLookup</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup2">xmlHashQLookup2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup3">xmlHashQLookup3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashCopier">xmlHashCopier</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScan">xmlHashScan</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull">xmlHashScanFull</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScanner">xmlHashScanner</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashCopier">xmlHashCopier</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScanner">xmlHashScanner</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashCreateDict">xmlHashCreateDict</a><br />
+APIfunctions.html (doc):</p><h2>Type xmlHashCopier:</h2><p><a href="html/libxml-hash.html#xmlHashCopy">xmlHashCopy</a><br />
+APIfunctions.html (doc):</p><h2>Type xmlHashDeallocator:</h2><p><a href="html/libxml-hash.html#xmlHashFree">xmlHashFree</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIfunctions.html (doc):</p><h2>Type xmlHashScanner:</h2><p><a href="html/libxml-hash.html#xmlHashScan">xmlHashScan</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIfunctions.html (doc):</p><h2>Type xmlHashScannerFull:</h2><p><a href="html/libxml-hash.html#xmlHashScanFull">xmlHashScanFull</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIfunctions.html (doc):</p><h2>Type xmlHashTablePtr:</h2><p><a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashCopy">xmlHashCopy</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashFree">xmlHashFree</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashLookup">xmlHashLookup</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashLookup2">xmlHashLookup2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashLookup3">xmlHashLookup3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup">xmlHashQLookup</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup2">xmlHashQLookup2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup3">xmlHashQLookup3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScan">xmlHashScan</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull">xmlHashScanFull</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashSize">xmlHashSize</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIfunctions.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#XML_CAST_FPTR">XML_CAST_FPTR</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry">xmlHashAddEntry</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry2">xmlHashAddEntry2</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashAddEntry3">xmlHashAddEntry3</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashCopier">xmlHashCopier</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashCopy">xmlHashCopy</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashCreate">xmlHashCreate</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashCreateDict">xmlHashCreateDict</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashFree">xmlHashFree</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashLookup">xmlHashLookup</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashLookup2">xmlHashLookup2</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashLookup3">xmlHashLookup3</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup">xmlHashQLookup</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup2">xmlHashQLookup2</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashQLookup3">xmlHashQLookup3</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry">xmlHashRemoveEntry</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashScan">xmlHashScan</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashScan3">xmlHashScan3</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull">xmlHashScanFull</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashScanFull3">xmlHashScanFull3</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashScanner">xmlHashScanner</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashSize">xmlHashSize</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashTable">xmlHashTable</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry">xmlHashUpdateEntry</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a><br />
+APIsymbols.html (doc):<a href="html/libxml-hash.html#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a><br />
+Book1.html (doc\html):e.org/buglist.cgi?product=libxml2">Bug Tracker</a></li></ul></td></tr></table></td></tr></table></td><td valign="top" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%"><tr><td><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table border="0" cellpadding="3" cellspacing="1" width="100%"><tr><td bgcolor="#fffacd"><h2>Table of Contents</h2><ul><li><a href="libxml-DOCBparser.html">DOCBparser</a>: old DocBook SGML parser</li><li><a href="libxml-HTMLparser.html">HTMLparser</a>: interface for an HTML 4.0 non-verifying parser</li><li><a href="libxml-HTMLtree.html">HTMLtree</a>: specific APIs to process HTML tree, especially serialization</li><li><a href="libxml-SAX.html">SAX</a>: Old SAX version 1 handler, deprecated</li><li><a href="libxml-SAX2.html">SAX2</a>: SAX2 parser interface used to build the DOM tree</li><li><a href="libxml-c14n.html">c14n</a>: Provide Canonical XML and Exclusive XML Canonicalization</li><li><a href="libxml-catalog.html">catalog</a>: interfaces to the Catalog handling system</li><li><a href="libxml-chvalid.html">chvalid</a>: Unicode character range checking</li><li><a href="libxml-debugXML.html">debugXML</a>: Tree debugging APIs</li><li><a href="libxml-dict.html">dict</a>: string dictionnary</li><li><a href="libxml-encoding.html">encoding</a>: interface for the encoding conversion functions</li><li><a href="libxml-entities.html">entities</a>: interface for the XML entities handling</li><li><a href="libxml-globals.html">globals</a>: interface for all global variables of the library</li><li><a href="libxml-hash.html">hash</a>: Chained hash tables</li><li><a href="libxml-list.html">list</a>: lists interfaces</li><li><a href="libxml-nanoftp.html">nanoftp</a>: minimal FTP implementation</li><li><a href="libxml-nanohttp.html">nanohttp</a>: minimal HTTP implementation</li><li><a href="libxml-parser.html">parser</a>: the core parser module</li><li><a href="libxml-parserInternals.html">parserInternals</a>: internals routines exported by the parser.</li><li><a href="libxml-pattern.html">pattern</a>: pattern expression handling</li><li><a href="libxml-relaxng.html">relaxng</a>: implementation of the Relax-NG validation</li><li><a href="libxml-schemasInternals.html">schemasInternals</a>: internal interfaces for XML Schemas</li><li><a href="libxml-schematron.html">schematron</a>: XML Schemastron implementation</li><li><a href="libxml-threads.html">threads</a>: interfaces for thread handling</li><li><a href="libxml-tree.html">tree</a>: interfaces for tree manipulation</li><li><a href="libxml-uri.html">uri</a>: library of generic URI related routines</li><li><a href="libxml-valid.html">valid</a>: The DTD validation</li><li><a href="libxml-xinclude.html">xinclude</a>: implementation of XInclude</li><li><a href="libxml-xlink.html">xlink</a>: unfinished XLink detection module</li><li><a href="libxml-xmlIO.html">xmlIO</a>: interface for the I/O interfaces used by the parser</li><li><a href="libxml-xmlautomata.html">xmlautomata</a>: API to build regexp automata</li><li><a href="libxml-xmlerror.html">xmlerror</a>: error handling</li><li><a href="libxml-xmlexports.html">xmlexports</a>: macros for marking symbols as exportable/importable.</li><li><a href="libxml-xmlmemory.html">xmlmemory</a>: interface for the memory allocator</li><li><a href="libxml-xmlmodule.html">xmlmodule</a>: dynamic module loading</li><li><a href="libxml-xmlreader.html">xmlreader</a>: the XMLReader implementation</li><li><a href="libxml-xmlregexp.html">xmlregexp</a>: regular expressions handling</li><li><a href="libxml-xmlsave.html">xmlsave</a>: the XML document serializer</li><li><a href="libxml-xmlschemas.html">xmlschemas</a>: incomplete XML Schemas structure implementation</li><li><a href="libxml-xmlschemastypes.html">xmlschemastypes</a>: implementation of XML Schema Datatypes</li><li><a href="libxml-xmlstring.html">xmlstring</a>: set of routines to process strings</li><li><a href="libxml-xmlunicode.html">xmlunicode</a>: Unicode character APIs</li><li><a
+Bug152470_1.xml (test\schemas):><hash>vXENc+Um/9/NvmYKiHDLaErK0gk=</hash></keyIdentifier>
+Catalog.c:#include <libxml/hash.h>
+Catalog.c:     * SGML Catalogs are stored as a simple hash table of catalog entries
+Catalog.c:     * Entries stored in the file hash must be deallocated
+Catalog.c:     * only by the file hash cleaner !
+Catalog.c: * catalog file hash.
+Catalog.c:		    "Found %s in file hash\n", catal->URL);
+Catalog.c:		"%s not found in file hash\n", catal->URL);
+Catalog.c:		"%s added to file hash\n", catal->URL);
+Catalog.c: * Parse an SGML catalog content and fill up the @catal hash table with
+Catalog.c: * @catal:  an SGML catalog hash
+Catalog.c: * @catal:  an SGML catalog hash
+Dict.c: * it seems that having hash randomization might be a good idea
+Dict.c: *  well but since the attack is based on growing a very big hash
+Dict.c: *  list we will use the BigKey algo as soon as the hash size grows
+Dict.c: * Calculate a hash key using a good hash function that works well for
+Dict.c: * larger hash table sizes.
+Dict.c: * http://burtleburtle.net/bob/hash/doobs.html
+Dict.c:    uint32_t hash;
+Dict.c:    hash = seed;
+Dict.c:        hash += data[i];
+Dict.c:	hash += (hash << 10);
+Dict.c:	hash ^= (hash >> 6);
+Dict.c:    hash += (hash << 3);
+Dict.c:    hash ^= (hash >> 11);
+Dict.c:    hash += (hash << 15);
+Dict.c:    return hash;
+Dict.c: * Calculate a hash key for two strings using a good hash function
+Dict.c: * that works well for larger hash table sizes.
+Dict.c: * http://burtleburtle.net/bob/hash/doobs.html
+Dict.c:    uint32_t hash;
+Dict.c:    hash = seed;
+Dict.c:        hash += prefix[i];
+Dict.c:	hash += (hash << 10);
+Dict.c:	hash ^= (hash >> 6);
+Dict.c:    hash += ':';
+Dict.c:    hash += (hash << 10);
+Dict.c:    hash ^= (hash >> 6);
+Dict.c:        hash += name[i];
+Dict.c:	hash += (hash << 10);
+Dict.c:	hash ^= (hash >> 6);
+Dict.c:    hash += (hash << 3);
+Dict.c:    hash ^= (hash >> 11);
+Dict.c:    hash += (hash << 15);
+Dict.c:    return hash;
+Dict.c: * Calculate a hash key using a fast hash function that works well
+Dict.c: * for low hash table fill.
+Dict.c: * Calculate a hash key for two strings using a fast hash function
+Dict.c: * that works well for low hash table fill.
+Dict.c: * Free the hash @dict and its contents. The userdata is
+Dict.c: * Add the QName @prefix:@name to the hash @dict if not present.
+Dict.c: * Query the number of elements installed in the hash @dict.
+Elfgcchack.h:#include "libxml/hash.h"
+Elfgcchack.xsl (doc):#include "libxml/hash.h"
+Entities.c:#include <libxml/hash.h>
+Entities.c: * Do an entity lookup in the DTD entity hash table and
+Entities.c: * Do an entity lookup in the document entity hash table and
+Entities.c: * create and initialize an empty entities hash table.
+Entities.c: * Deallocate the memory used by an entities in the hash table.
+Entities.c: * Deallocate the memory used by an entities hash table.
+Entities.c: * When using the hash table scan function, arguments need to be reversed
+Entities.h (include\libxml): * and the linkind data needed for the linking in the hash table.
+Entities.h (include\libxml): * All entities are stored in an hash table.
+Entities.h (include\libxml): * There is 2 separate hash tables for global and parameter entities.
+General.html (doc\devhelp):    <p><a href="libxml2-DOCBparser.html">DOCBparser</a> - old DocBook SGML parser<br/><a href="libxml2-HTMLparser.html">HTMLparser</a> - interface for an HTML 4.0 non-verifying parser<br/><a href="libxml2-HTMLtree.html">HTMLtree</a> - specific APIs to process HTML tree, especially serialization<br/><a href="libxml2-SAX.html">SAX</a> - Old SAX version 1 handler, deprecated<br/><a href="libxml2-SAX2.html">SAX2</a> - SAX2 parser interface used to build the DOM tree<br/><a href="libxml2-c14n.html">c14n</a> - Provide Canonical XML and Exclusive XML Canonicalization<br/><a href="libxml2-catalog.html">catalog</a> - interfaces to the Catalog handling system<br/><a href="libxml2-chvalid.html">chvalid</a> - Unicode character range checking<br/><a href="libxml2-debugXML.html">debugXML</a> - Tree debugging APIs<br/><a href="libxml2-dict.html">dict</a> - string dictionnary<br/><a href="libxml2-encoding.html">encoding</a> - interface for the encoding conversion functions<br/><a href="libxml2-entities.html">entities</a> - interface for the XML entities handling<br/><a href="libxml2-globals.html">globals</a> - interface for all global variables of the library<br/><a href="libxml2-hash.html">hash</a> - Chained hash tables<br/><a href="libxml2-list.html">list</a> - lists interfaces<br/><a href="libxml2-nanoftp.html">nanoftp</a> - minimal FTP implementation<br/><a href="libxml2-nanohttp.html">nanohttp</a> - minimal HTTP implementation<br/><a href="libxml2-parser.html">parser</a> - the core parser module<br/><a href="libxml2-parserInternals.html">parserInternals</a> - internals routines exported by the parser.<br/><a href="libxml2-pattern.html">pattern</a> - pattern expression handling<br/><a href="libxml2-relaxng.html">relaxng</a> - implementation of the Relax-NG validation<br/><a href="libxml2-schemasInternals.html">schemasInternals</a> - internal interfaces for XML Schemas<br/><a href="libxml2-schematron.html">schematron</a> - XML Schemastron implementation<br/><a href="libxml2-threads.html">threads</a> - interfaces for thread handling<br/><a href="libxml2-tree.html">tree</a> - interfaces for tree manipulation<br/><a href="libxml2-uri.html">uri</a> - library of generic URI related routines<br/><a href="libxml2-valid.html">valid</a> - The DTD validation<br/><a href="libxml2-xinclude.html">xinclude</a> - implementation of XInclude<br/><a href="libxml2-xlink.html">xlink</a> - unfinished XLink detection module<br/><a href="libxml2-xmlIO.html">xmlIO</a> - interface for the I/O interfaces used by the parser<br/><a href="libxml2-xmlautomata.html">xmlautomata</a> - API to build regexp automata<br/><a href="libxml2-xmlerror.html">xmlerror</a> - error handling<br/><a href="libxml2-xmlexports.html">xmlexports</a> - macros for marking symbols as exportable/importable.<br/><a href="libxml2-xmlmemory.html">xmlmemory</a> - interface for the memory allocator<br/><a href="libxml2-xmlmodule.html">xmlmodule</a> - dynamic module loading<br/><a href="libxml2-xmlreader.html">xmlreader</a> - the XMLReader implementation<br/><a href="libxml2-xmlregexp.html">xmlregexp</a> - regular expressions handling<br/><a href="libxml2-xmlsave.html">xmlsave</a> - the XML document serializer<br/><a href="libxml2-xmlschemas.html">xmlschemas</a> - incomplete XML Schemas structure implementation<br/><a href="libxml2-xmlschemastypes.html">xmlschemastypes</a> - implementation of XML Schema Datatypes<br/><a href="libxml2-xmlstring.html">xmlstring</a> - set of routines to process strings<br/><a href="libxml2-xmlunicode.html">xmlunicode</a> - Unicode character APIs<br/><a href="libxml2-xmlversion.html">xmlversion</a> - compile-time version informations<br/><a href="libxml2-xmlwriter.html">xmlwriter</a> - text writing API for XML<br/><a href="libxml2-xpath.html">xpath</a> - XML Path Language implementation<br/><a href="libxml2-xpathInternals.html">xpathInternals</a> - internal interfaces for XML Path Language implementation<br/><a href="libxml2-xpointer.html">xpointer</a> - API to handle XML Pointers<br/></p>
+Hash.c: * hash.c: chained hash tables
+Hash.c: * it seems that having hash randomization might be a good idea
+Hash.c:#include <libxml/hash.h>
+Hash.c: * A single entry in the hash table
+Hash.c: * The entire hash table
+Hash.c: * Calculate the hash key
+Hash.c: * @size: the size of the hash table
+Hash.c: * @size: the size of the hash table
+Hash.c: * @dict: a dictionary to use for the hash
+Hash.c: * @table: the hash table
+Hash.c: * @size: the new size of the hash table
+Hash.c: * resize the hash table
+Hash.c: * @table: the hash table
+Hash.c: * @f:  the deallocator function for items in the hash
+Hash.c: * Free the hash @table and its contents. The userdata is
+Hash.c: * @table: the hash table
+Hash.c: * Add the @userdata to the hash @table. This can later be retrieved
+Hash.c: * @table: the hash table
+Hash.c: * Add the @userdata to the hash @table. This can later be retrieved
+Hash.c: * @table: the hash table
+Hash.c: * Add the @userdata to the hash @table. This can later be retrieved
+Hash.c: * @table: the hash table
+Hash.c: * Add the @userdata to the hash @table. This can later be retrieved
+Hash.c: * @table: the hash table
+Hash.c: * @table: the hash table
+Hash.c: * @table: the hash table
+Hash.c: * @table: the hash table
+Hash.c: * @table: the hash table
+Hash.c: * Add the @userdata to the hash @table. This can later be retrieved
+Hash.c: * @table: the hash table
+Hash.c: * Add the @userdata to the hash @table. This can later be retrieved
+Hash.c: * @table: the hash table
+Hash.c: * @table: the hash table
+Hash.c: * @table: the hash table
+Hash.c: * @f:  the scanner function for items in the hash
+Hash.c: * Scan the hash @table and applied @f to each value.
+Hash.c: * @table: the hash table
+Hash.c: * @f:  the scanner function for items in the hash
+Hash.c: * Scan the hash @table and applied @f to each value.
+Hash.c: * @table: the hash table
+Hash.c: * @f:  the scanner function for items in the hash
+Hash.c: * Scan the hash @table and applied @f to each value matching
+Hash.c: * @table: the hash table
+Hash.c: * @f:  the scanner function for items in the hash
+Hash.c: * Scan the hash @table and applied @f to each value matching
+Hash.c: * @table: the hash table
+Hash.c: * @f:  the copier function for items in the hash
+Hash.c: * Scan the hash @table and applied @f to each value.
+Hash.c: * @table: the hash table
+Hash.c: * Query the number of elements installed in the hash @table.
+Hash.c: * Returns the number of elements in the hash table or
+Hash.c: * @table: the hash table
+Hash.c: * it from the hash @table. Existing userdata for this tuple will be removed
+Hash.c: * @table: the hash table
+Hash.c: * it from the hash @table. Existing userdata for this tuple will be removed
+Hash.c: * @table: the hash table
+Hash.c: * it from the hash @table. Existing userdata for this tuple will be removed
+Hash.h (include\libxml): * Summary: Chained hash tables
+Hash.h (include\libxml): * Description: This module implements the hash table support used in 
+Hash.h (include\libxml): * The hash table.
+Hash.h (include\libxml): * @payload:  the data in the hash
+Hash.h (include\libxml): * Callback to free data from a hash.
+Hash.h (include\libxml): * @payload:  the data in the hash
+Hash.h (include\libxml): * Callback to copy data from a hash.
+Hash.h (include\libxml): * @payload:  the data in the hash
+Hash.h (include\libxml): * Callback when scanning data in a hash with the simple scanner.
+Hash.h (include\libxml): * @payload:  the data in the hash
+Hash.h (include\libxml): * Callback when scanning data in a hash with the full scanner.
+Hash.h (include\libxml): * Add a new entry to the hash table.
+Hash.h (include\libxml): * Remove an entry from the hash table.
+HTMLparser.c: * TODO: the linear scan is really ugly, an hash table is really needed.
+HTMLparser.c: * TODO: the linear scan is really ugly, an hash table is really needed.
+Index.html (doc\html):e.org/buglist.cgi?product=libxml2">Bug Tracker</a></li></ul></td></tr></table></td></tr></table></td><td valign="top" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%"><tr><td><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table border="0" cellpadding="3" cellspacing="1" width="100%"><tr><td bgcolor="#fffacd"><h2>Table of Contents</h2><ul><li><a href="libxml-DOCBparser.html">DOCBparser</a>: old DocBook SGML parser</li><li><a href="libxml-HTMLparser.html">HTMLparser</a>: interface for an HTML 4.0 non-verifying parser</li><li><a href="libxml-HTMLtree.html">HTMLtree</a>: specific APIs to process HTML tree, especially serialization</li><li><a href="libxml-SAX.html">SAX</a>: Old SAX version 1 handler, deprecated</li><li><a href="libxml-SAX2.html">SAX2</a>: SAX2 parser interface used to build the DOM tree</li><li><a href="libxml-c14n.html">c14n</a>: Provide Canonical XML and Exclusive XML Canonicalization</li><li><a href="libxml-catalog.html">catalog</a>: interfaces to the Catalog handling system</li><li><a href="libxml-chvalid.html">chvalid</a>: Unicode character range checking</li><li><a href="libxml-debugXML.html">debugXML</a>: Tree debugging APIs</li><li><a href="libxml-dict.html">dict</a>: string dictionnary</li><li><a href="libxml-encoding.html">encoding</a>: interface for the encoding conversion functions</li><li><a href="libxml-entities.html">entities</a>: interface for the XML entities handling</li><li><a href="libxml-globals.html">globals</a>: interface for all global variables of the library</li><li><a href="libxml-hash.html">hash</a>: Chained hash tables</li><li><a href="libxml-list.html">list</a>: lists interfaces</li><li><a href="libxml-nanoftp.html">nanoftp</a>: minimal FTP implementation</li><li><a href="libxml-nanohttp.html">nanohttp</a>: minimal HTTP implementation</li><li><a href="libxml-parser.html">parser</a>: the core parser module</li><li><a href="libxml-parserInternals.html">parserInternals</a>: internals routines exported by the parser.</li><li><a href="libxml-pattern.html">pattern</a>: pattern expression handling</li><li><a href="libxml-relaxng.html">relaxng</a>: implementation of the Relax-NG validation</li><li><a href="libxml-schemasInternals.html">schemasInternals</a>: internal interfaces for XML Schemas</li><li><a href="libxml-schematron.html">schematron</a>: XML Schemastron implementation</li><li><a href="libxml-threads.html">threads</a>: interfaces for thread handling</li><li><a href="libxml-tree.html">tree</a>: interfaces for tree manipulation</li><li><a href="libxml-uri.html">uri</a>: library of generic URI related routines</li><li><a href="libxml-valid.html">valid</a>: The DTD validation</li><li><a href="libxml-xinclude.html">xinclude</a>: implementation of XInclude</li><li><a href="libxml-xlink.html">xlink</a>: unfinished XLink detection module</li><li><a href="libxml-xmlIO.html">xmlIO</a>: interface for the I/O interfaces used by the parser</li><li><a href="libxml-xmlautomata.html">xmlautomata</a>: API to build regexp automata</li><li><a href="libxml-xmlerror.html">xmlerror</a>: error handling</li><li><a href="libxml-xmlexports.html">xmlexports</a>: macros for marking symbols as exportable/importable.</li><li><a href="libxml-xmlmemory.html">xmlmemory</a>: interface for the memory allocator</li><li><a href="libxml-xmlmodule.html">xmlmodule</a>: dynamic module loading</li><li><a href="libxml-xmlreader.html">xmlreader</a>: the XMLReader implementation</li><li><a href="libxml-xmlregexp.html">xmlregexp</a>: regular expressions handling</li><li><a href="libxml-xmlsave.html">xmlsave</a>: the XML document serializer</li><li><a href="libxml-xmlschemas.html">xmlschemas</a>: incomplete XML Schemas structure implementation</li><li><a href="libxml-xmlschemastypes.html">xmlschemastypes</a>: implementation of XML Schema Datatypes</li><li><a href="libxml-xmlstring.html">xmlstring</a>: set of routines to process strings</li><li><a href="libxml-xmlunicode.html">xmlunicode</a>: Unicode character APIs</li><li><a
+Libxml-dict.html (doc\html):</pre><p>Free the hash @dict and its contents. The userdata is deallocated with @f if provided.</p>
+Libxml-dict.html (doc\html):</pre><p>Add the QName @prefix:@name to the hash @dict if not present.</p>
+Libxml-dict.html (doc\html):</pre><p>Query the number of elements installed in the hash @dict.</p>
+Libxml-entities.html (doc\html):</pre><p>create and initialize an empty entities hash table. This really doesn't make sense and should be deprecated</p>
+Libxml-entities.html (doc\html):</pre><p>Deallocate the memory used by an entities hash table.</p>
+Libxml-entities.html (doc\html):</pre><p>Do an entity lookup in the document entity hash table and</p>
+Libxml-entities.html (doc\html):</pre><p>Do an entity lookup in the DTD entity hash table and</p>
+Libxml-globals.html (doc\html):org/buglist.cgi?product=libxml2">Bug Tracker</a></li></ul></td></tr></table></td></tr></table></td><td valign="top" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%"><tr><td><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table border="0" cellpadding="3" cellspacing="1" width="100%"><tr><td bgcolor="#fffacd"><table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2"><tr valign="middle"><td><a accesskey="p" href="libxml-entities.html"><img src="left.png" width="24" height="24" border="0" alt="Prev" /></a></td><th align="left"><a href="libxml-entities.html">entities</a></th><td><a accesskey="u" href="index.html"><img src="up.png" width="24" height="24" border="0" alt="Up" /></a></td><th align="left"><a href="index.html">API documentation</a></th><td><a accesskey="h" href="../index.html"><img src="home.png" width="24" height="24" border="0" alt="Home" /></a></td><th align="center"><a href="../index.html">The XML C parser and toolkit of Gnome</a></th><th align="right"><a href="libxml-hash.html">hash</a></th><td><a accesskey="n" href="libxml-hash.html"><img src="right.png" width="24" height="24" border="0" alt="Next" /></a></td></tr></table><p>all the global variables and thread handling for those variables is handled by this module.  The bottom of this file is automatically generated by build_glob.py based on the description file global.data </p><h2>Table of Contents</h2><pre class="programlisting">Structure <a href="#xmlGlobalState">xmlGlobalState</a><br />struct _xmlGlobalState
+Libxml-hash.html (doc\html):    </style><title>Module hash from libxml2</title></head><body bgcolor="#8b7765" text="#000000" link="#a06060" vlink="#000000"><table border="0" width="100%" cellpadding="5" cellspacing="0" align="center"><tr><td width="120"><a href="http://swpat.ffii.org/"><img src="../epatents.png" alt="Action against software patents" /></a></td><td width="180"><a href="http://www.gnome.org/"><img src="../gnome2.png" alt="Gnome2 Logo" /></a><a href="http://www.w3.org/Status"><img src="../w3c.png" alt="W3C Logo" /></a><a href="http://www.redhat.com/"><img src="../redhat.gif" alt="Red Hat Logo" /></a><div align="left"><a href="http://xmlsoft.org/"><img src="../Libxml2-Logo-180x168.gif" alt="Made with Libxml2 Logo" /></a></div></td><td><table border="0" width="90%" cellpadding="2" cellspacing="0" align="center" bgcolor="#000000"><tr><td><table width="100%" border="0" cellspacing="1" cellpadding="3" bgcolor="#fffacd"><tr><td align="center"><h1></h1><h2>Module hash from libxml2</h2></td></tr></table></td></tr></table></td></tr></table><table border="0" cellpadding="4" cellspacing="0" width="100%" align="center"><tr><td bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="2" width="100%"><tr><td valign="top" width="200" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>API Menu</b></center></td></tr><tr><td bgcolor="#fffacd"><form action="../search.php" enctype="application/x-www-form-urlencoded" method="get"><input name="query" type="text" size="20" value="" /><input name="submit" type="submit" value="Search ..." /></form><ul><li><a style="font-weight:bold" href="../index.html">Main Menu</a></li><li><a style="font-weight:bold" href="../docs.html">Developer Menu</a></li><li><a style="font-weight:bold" href="../examples/index.html">Code Examples</a></li><li><a style="font-weight:bold" href="index.html">API Menu</a></li><li><a href="libxml-parser.html">Parser API</a></li><li><a href="libxml-tree.html">Tree API</a></li><li><a href="libxml-xmlreader.html">Reader API</a></li><li><a href="../guidelines.html">XML Guidelines</a></li><li><a href="../ChangeLog.html">ChangeLog</a></li></ul></td></tr></table><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>API Indexes</b></center></td></tr><tr><td bgcolor="#fffacd"><ul><li><a href="../APIchunk0.html">Alphabetic</a></li><li><a href="../APIconstructors.html">Constructors</a></li><li><a href="../APIfunctions.html">Functions/Types</a></li><li><a href="../APIfiles.html">Modules</a></li><li><a href="../APIsymbols.html">Symbols</a></li></ul></td></tr></table><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>Related links</b></center></td></tr><tr><td bgcolor="#fffacd"><ul><li><a href="http://mail.gnome.org/archives/xml/">Mail archive</a></li><li><a href="http://xmlsoft.org/XSLT/">XSLT libxslt</a></li><li><a href="http://phd.cs.unibo.it/gdome2/">DOM gdome2</a></li><li><a href="http://www.aleksey.com/xmlsec/">XML-DSig xmlsec</a></li><li><a href="ftp://xmlsoft.org/">FTP</a></li><li><a href="http://www.zlatkovic.com/projects/libxml/">Windows binaries</a></li><li><a href="http://opencsw.org/packages/libxml2">Solaris binaries</a></li><li><a href="http://www.explain.com.au/oss/libxml2xslt.html">MacOsX binaries</a></li><li><a href="http://lxml.de/">lxml Python bindings</a></li><li><a href="http://cpan.uwinnipeg.ca/dist/XML-LibXML">Perl bindings</a></li><li><a href="http://libxmlplusplus.sourceforge.net/">C++ bindings</a></li><li><a href="http://www.zend.com/php5/articles/php5-xmlphp.php#Heading4">PHP bindings</a></li><li><a href="http://sourceforge.net/projects/libxml2-pas/">Pascal bindings</a></li><li><a href="http://libxml.rubyforge.org/">Ruby bindings</a></li><li><a href="http://tclxml.sourceforge.net/">Tcl bindings</a></li><li><a href="
+Libxml-hash.html (doc\html):glist.cgi?product=libxml2">Bug Tracker</a></li></ul></td></tr></table></td></tr></table></td><td valign="top" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%"><tr><td><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table border="0" cellpadding="3" cellspacing="1" width="100%"><tr><td bgcolor="#fffacd"><table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2"><tr valign="middle"><td><a accesskey="p" href="libxml-globals.html"><img src="left.png" width="24" height="24" border="0" alt="Prev" /></a></td><th align="left"><a href="libxml-globals.html">globals</a></th><td><a accesskey="u" href="index.html"><img src="up.png" width="24" height="24" border="0" alt="Up" /></a></td><th align="left"><a href="index.html">API documentation</a></th><td><a accesskey="h" href="../index.html"><img src="home.png" width="24" height="24" border="0" alt="Home" /></a></td><th align="center"><a href="../index.html">The XML C parser and toolkit of Gnome</a></th><th align="right"><a href="libxml-list.html">list</a></th><td><a accesskey="n" href="libxml-list.html"><img src="right.png" width="24" height="24" border="0" alt="Next" /></a></td></tr></table><p>This module implements the hash table support used in various places in the library. </p><h2>Table of Contents</h2><pre class="programlisting">#define <a href="#XML_CAST_FPTR">XML_CAST_FPTR</a></pre><pre class="programlisting">Structure <a href="#xmlHashTable">xmlHashTable</a><br />struct _xmlHashTable
+Libxml-hash.html (doc\html):</pre><pre class="programlisting">Typedef <a href="libxml-hash.html#xmlHashTable">xmlHashTable</a> * <a name="xmlHashTablePtr" id="xmlHashTablePtr">xmlHashTablePtr</a>
+Libxml-hash.html (doc\html):</pre><pre class="programlisting">int	<a href="#xmlHashAddEntry">xmlHashAddEntry</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 void * userdata)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">int	<a href="#xmlHashAddEntry2">xmlHashAddEntry2</a>		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 void * userdata)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">int	<a href="#xmlHashAddEntry3">xmlHashAddEntry3</a>		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3, <br />					 void * userdata)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting"><a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	<a href="#xmlHashCopy">xmlHashCopy</a>		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 <a href="libxml-hash.html#xmlHashCopier">xmlHashCopier</a> f)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting"><a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	<a href="#xmlHashCreate">xmlHashCreate</a>		(int size)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting"><a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	<a href="#xmlHashCreateDict">xmlHashCreateDict</a>	(int size, <br />					 <a href="libxml-dict.html#xmlDictPtr">xmlDictPtr</a> dict)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">void	<a href="#xmlHashFree">xmlHashFree</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">void *	<a href="#xmlHashLookup">xmlHashLookup</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">void *	<a href="#xmlHashLookup2">xmlHashLookup2</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">void *	<a href="#xmlHashLookup3">xmlHashLookup3</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">void *	<a href="#xmlHashQLookup">xmlHashQLookup</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">void *	<a href="#xmlHashQLookup2">xmlHashQLookup2</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">void *	<a href="#xmlHashQLookup3">xmlHashQLookup3</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix3, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">int	<a href="#xmlHashRemoveEntry">xmlHashRemoveEntry</a>		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">int	<a href="#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a>		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">int	<a href="#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a>		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">void	<a href="#xmlHashScan">xmlHashScan</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 <a href="libxml-hash.html#xmlHashScanner">xmlHashScanner</a> f, <br />					 void * data)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">void	<a href="#xmlHashScan3">xmlHashScan3</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3, <br />					 <a href="libxml-hash.html#xmlHashScanner">xmlHashScanner</a> f, <br />					 void * data)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">void	<a href="#xmlHashScanFull">xmlHashScanFull</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 <a href="libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a> f, <br />					 void * data)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">void	<a href="#xmlHashScanFull3">xmlHashScanFull3</a>		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3, <br />					 <a href="libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a> f, <br />					 void * data)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">int	<a href="#xmlHashSize">xmlHashSize</a>			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">int	<a href="#xmlHashUpdateEntry">xmlHashUpdateEntry</a>		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 void * userdata, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">int	<a href="#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a>		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 void * userdata, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)</pre>
+Libxml-hash.html (doc\html):<pre class="programlisting">int	<a href="#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a>		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3, <br />					 void * userdata, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)</pre>
+Libxml-hash.html (doc\html):}</pre><h3><a name="xmlHashAddEntry" id="xmlHashAddEntry"></a>Function: xmlHashAddEntry</h3><pre class="programlisting">int	xmlHashAddEntry			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 void * userdata)<br />
+Libxml-hash.html (doc\html):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the @name. Duplicate names generate errors.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div><h3><a name="xmlHashAddEntry2" id="xmlHashAddEntry2"></a>Function: xmlHashAddEntry2</h3><pre class="programlisting">int	xmlHashAddEntry2		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 void * userdata)<br />
+Libxml-hash.html (doc\html):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the (@name, @name2) tuple. Duplicate tuples generate errors.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div><h3><a name="xmlHashAddEntry3" id="xmlHashAddEntry3"></a>Function: xmlHashAddEntry3</h3><pre class="programlisting">int	xmlHashAddEntry3		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3, <br />					 void * userdata)<br />
+Libxml-hash.html (doc\html):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the tuple (@name, @name2, @name3). Duplicate entries generate errors.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div><h3><a name="xmlHashCopier" id="xmlHashCopier"></a>Function type: xmlHashCopier</h3><pre class="programlisting">Function type: xmlHashCopier
+Libxml-hash.html (doc\html):</pre><p>Callback to copy data from a hash.</p><div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>payload</tt></i>:</span></td><td>the data in the hash</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name associated</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a copy of the data or NULL in case of error.</td></tr></tbody></table></div><br />
+Libxml-hash.html (doc\html):<h3><a name="xmlHashCopy" id="xmlHashCopy"></a>Function: xmlHashCopy</h3><pre class="programlisting"><a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	xmlHashCopy		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 <a href="libxml-hash.html#xmlHashCopier">xmlHashCopier</a> f)<br />
+Libxml-hash.html (doc\html):</pre><p>Scan the hash @table and applied @f to each value.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the copier function for items in the hash</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the new table or NULL in case of error.</td></tr></tbody></table></div><h3><a name="xmlHashCreate" id="xmlHashCreate"></a>Function: xmlHashCreate</h3><pre class="programlisting"><a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	xmlHashCreate		(int size)<br />
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>size</tt></i>:</span></td><td>the size of the hash table</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the newly created object, or NULL if an error occured.</td></tr></tbody></table></div><h3><a name="xmlHashCreateDict" id="xmlHashCreateDict"></a>Function: xmlHashCreateDict</h3><pre class="programlisting"><a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	xmlHashCreateDict	(int size, <br />					 <a href="libxml-dict.html#xmlDictPtr">xmlDictPtr</a> dict)<br />
+Libxml-hash.html (doc\html):</pre><p>Create a new <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> which will use @dict as the internal dictionary</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>size</tt></i>:</span></td><td>the size of the hash table</td></tr><tr><td><span class="term"><i><tt>dict</tt></i>:</span></td><td>a dictionary to use for the hash</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the newly created object, or NULL if an error occured.</td></tr></tbody></table></div><h3><a name="xmlHashDeallocator" id="xmlHashDeallocator"></a>Function type: xmlHashDeallocator</h3><pre class="programlisting">Function type: xmlHashDeallocator
+Libxml-hash.html (doc\html):</pre><p>Callback to free data from a hash.</p><div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>payload</tt></i>:</span></td><td>the data in the hash</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name associated</td></tr></tbody></table></div><br />
+Libxml-hash.html (doc\html):<h3><a name="xmlHashFree" id="xmlHashFree"></a>Function: xmlHashFree</h3><pre class="programlisting">void	xmlHashFree			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br />
+Libxml-hash.html (doc\html):</pre><p>Free the hash @table and its contents. The userdata is deallocated with @f if provided.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for items in the hash</td></tr></tbody></table></div><h3><a name="xmlHashLookup" id="xmlHashLookup"></a>Function: xmlHashLookup</h3><pre class="programlisting">void *	xmlHashLookup			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name)<br />
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the pointer to the userdata</td></tr></tbody></table></div><h3><a name="xmlHashLookup2" id="xmlHashLookup2"></a>Function: xmlHashLookup2</h3><pre class="programlisting">void *	xmlHashLookup2			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2)<br />
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the pointer to the userdata</td></tr></tbody></table></div><h3><a name="xmlHashLookup3" id="xmlHashLookup3"></a>Function: xmlHashLookup3</h3><pre class="programlisting">void *	xmlHashLookup3			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3)<br />
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the a pointer to the userdata</td></tr></tbody></table></div><h3><a name="xmlHashQLookup" id="xmlHashQLookup"></a>Function: xmlHashQLookup</h3><pre class="programlisting">void *	xmlHashQLookup			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name)<br />
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>prefix</tt></i>:</span></td><td>the prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the pointer to the userdata</td></tr></tbody></table></div><h3><a name="xmlHashQLookup2" id="xmlHashQLookup2"></a>Function: xmlHashQLookup2</h3><pre class="programlisting">void *	xmlHashQLookup2			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2)<br />
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>prefix</tt></i>:</span></td><td>the prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>prefix2</tt></i>:</span></td><td>the second prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the pointer to the userdata</td></tr></tbody></table></div><h3><a name="xmlHashQLookup3" id="xmlHashQLookup3"></a>Function: xmlHashQLookup3</h3><pre class="programlisting">void *	xmlHashQLookup3			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * prefix3, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3)<br />
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>prefix</tt></i>:</span></td><td>the prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>prefix2</tt></i>:</span></td><td>the second prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>prefix3</tt></i>:</span></td><td>the third prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the a pointer to the userdata</td></tr></tbody></table></div><h3><a name="xmlHashRemoveEntry" id="xmlHashRemoveEntry"></a>Function: xmlHashRemoveEntry</h3><pre class="programlisting">int	xmlHashRemoveEntry		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br />
+Libxml-hash.html (doc\html):</pre><p>Find the userdata specified by the @name and remove it from the hash @table. Existing userdata for this tuple will be removed and freed with @f.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for removed item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 if the removal succeeded and -1 in case of error or not found.</td></tr></tbody></table></div><h3><a name="xmlHashRemoveEntry2" id="xmlHashRemoveEntry2"></a>Function: xmlHashRemoveEntry2</h3><pre class="programlisting">int	xmlHashRemoveEntry2		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br />
+Libxml-hash.html (doc\html):</pre><p>Find the userdata specified by the (@name, @name2) tuple and remove it from the hash @table. Existing userdata for this tuple will be removed and freed with @f.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for removed item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 if the removal succeeded and -1 in case of error or not found.</td></tr></tbody></table></div><h3><a name="xmlHashRemoveEntry3" id="xmlHashRemoveEntry3"></a>Function: xmlHashRemoveEntry3</h3><pre class="programlisting">int	xmlHashRemoveEntry3		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br />
+Libxml-hash.html (doc\html):</pre><p>Find the userdata specified by the (@name, @name2, @name3) tuple and remove it from the hash @table. Existing userdata for this tuple will be removed and freed with @f.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for removed item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 if the removal succeeded and -1 in case of error or not found.</td></tr></tbody></table></div><h3><a name="xmlHashScan" id="xmlHashScan"></a>Function: xmlHashScan</h3><pre class="programlisting">void	xmlHashScan			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 <a href="libxml-hash.html#xmlHashScanner">xmlHashScanner</a> f, <br />					 void * data)<br />
+Libxml-hash.html (doc\html):</pre><p>Scan the hash @table and applied @f to each value.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the scanner function for items in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra data passed to f</td></tr></tbody></table></div><h3><a name="xmlHashScan3" id="xmlHashScan3"></a>Function: xmlHashScan3</h3><pre class="programlisting">void	xmlHashScan3			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3, <br />					 <a href="libxml-hash.html#xmlHashScanner">xmlHashScanner</a> f, <br />					 void * data)<br />
+Libxml-hash.html (doc\html):</pre><p>Scan the hash @table and applied @f to each value matching (@name, @name2, @name3) tuple. If one of the names is null, the comparison is considered to match.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the scanner function for items in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra data passed to f</td></tr></tbody></table></div><h3><a name="xmlHashScanFull" id="xmlHashScanFull"></a>Function: xmlHashScanFull</h3><pre class="programlisting">void	xmlHashScanFull			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 <a href="libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a> f, <br />					 void * data)<br />
+Libxml-hash.html (doc\html):</pre><p>Scan the hash @table and applied @f to each value.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the scanner function for items in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra data passed to f</td></tr></tbody></table></div><h3><a name="xmlHashScanFull3" id="xmlHashScanFull3"></a>Function: xmlHashScanFull3</h3><pre class="programlisting">void	xmlHashScanFull3		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3, <br />					 <a href="libxml-hash.html#xmlHashScannerFull">xmlHashScannerFull</a> f, <br />					 void * data)<br />
+Libxml-hash.html (doc\html):</pre><p>Scan the hash @table and applied @f to each value matching (@name, @name2, @name3) tuple. If one of the names is null, the comparison is considered to match.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the scanner function for items in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra data passed to f</td></tr></tbody></table></div><h3><a name="xmlHashScanner" id="xmlHashScanner"></a>Function type: xmlHashScanner</h3><pre class="programlisting">Function type: xmlHashScanner
+Libxml-hash.html (doc\html):</pre><p>Callback when scanning data in a hash with the simple scanner.</p><div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>payload</tt></i>:</span></td><td>the data in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra scannner data</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name associated</td></tr></tbody></table></div><br />
+Libxml-hash.html (doc\html):</pre><p>Callback when scanning data in a hash with the full scanner.</p><div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>payload</tt></i>:</span></td><td>the data in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra scannner data</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name associated</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>the second name associated</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>the third name associated</td></tr></tbody></table></div><br />
+Libxml-hash.html (doc\html):<h3><a name="xmlHashSize" id="xmlHashSize"></a>Function: xmlHashSize</h3><pre class="programlisting">int	xmlHashSize			(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table)<br />
+Libxml-hash.html (doc\html):</pre><p>Query the number of elements installed in the hash @table.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the number of elements in the hash table or -1 in case of error</td></tr></tbody></table></div><h3><a name="xmlHashUpdateEntry" id="xmlHashUpdateEntry"></a>Function: xmlHashUpdateEntry</h3><pre class="programlisting">int	xmlHashUpdateEntry		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 void * userdata, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br />
+Libxml-hash.html (doc\html):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the @name. Existing entry for this @name will be removed and freed with @f if found.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for replaced item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div><h3><a name="xmlHashUpdateEntry2" id="xmlHashUpdateEntry2"></a>Function: xmlHashUpdateEntry2</h3><pre class="programlisting">int	xmlHashUpdateEntry2		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 void * userdata, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br />
+Libxml-hash.html (doc\html):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the (@name, @name2) tuple. Existing entry for this tuple will be removed and freed with @f if found.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for replaced item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div><h3><a name="xmlHashUpdateEntry3" id="xmlHashUpdateEntry3"></a>Function: xmlHashUpdateEntry3</h3><pre class="programlisting">int	xmlHashUpdateEntry3		(<a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name2, <br />					 const <a href="libxml-xmlstring.html#xmlChar">xmlChar</a> * name3, <br />					 void * userdata, <br />					 <a href="libxml-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br />
+Libxml-hash.html (doc\html):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the tuple (@name, @name2, @name3). Existing entry for this tuple will be removed and freed with @f if found.</p>
+Libxml-hash.html (doc\html):<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for replaced item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div><p><a href="../bugs.html">Daniel Veillard</a></p></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></body></html>
+libxml-HTMLparser.html (doc\html):</pre><p>Lookup the given entity in EntitiesTable TODO: the linear scan is really ugly, an hash table is really needed.</p>
+libxml-HTMLparser.html (doc\html):</pre><p>Lookup the given entity in EntitiesTable TODO: the linear scan is really ugly, an hash table is really needed.</p>
+Libxml-lib.html (doc\html):e.org/buglist.cgi?product=libxml2">Bug Tracker</a></li></ul></td></tr></table></td></tr></table></td><td valign="top" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%"><tr><td><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table border="0" cellpadding="3" cellspacing="1" width="100%"><tr><td bgcolor="#fffacd"><h2>Table of Contents</h2><ul><li><a href="libxml-DOCBparser.html">DOCBparser</a>: old DocBook SGML parser</li><li><a href="libxml-HTMLparser.html">HTMLparser</a>: interface for an HTML 4.0 non-verifying parser</li><li><a href="libxml-HTMLtree.html">HTMLtree</a>: specific APIs to process HTML tree, especially serialization</li><li><a href="libxml-SAX.html">SAX</a>: Old SAX version 1 handler, deprecated</li><li><a href="libxml-SAX2.html">SAX2</a>: SAX2 parser interface used to build the DOM tree</li><li><a href="libxml-c14n.html">c14n</a>: Provide Canonical XML and Exclusive XML Canonicalization</li><li><a href="libxml-catalog.html">catalog</a>: interfaces to the Catalog handling system</li><li><a href="libxml-chvalid.html">chvalid</a>: Unicode character range checking</li><li><a href="libxml-debugXML.html">debugXML</a>: Tree debugging APIs</li><li><a href="libxml-dict.html">dict</a>: string dictionnary</li><li><a href="libxml-encoding.html">encoding</a>: interface for the encoding conversion functions</li><li><a href="libxml-entities.html">entities</a>: interface for the XML entities handling</li><li><a href="libxml-globals.html">globals</a>: interface for all global variables of the library</li><li><a href="libxml-hash.html">hash</a>: Chained hash tables</li><li><a href="libxml-list.html">list</a>: lists interfaces</li><li><a href="libxml-nanoftp.html">nanoftp</a>: minimal FTP implementation</li><li><a href="libxml-nanohttp.html">nanohttp</a>: minimal HTTP implementation</li><li><a href="libxml-parser.html">parser</a>: the core parser module</li><li><a href="libxml-parserInternals.html">parserInternals</a>: internals routines exported by the parser.</li><li><a href="libxml-pattern.html">pattern</a>: pattern expression handling</li><li><a href="libxml-relaxng.html">relaxng</a>: implementation of the Relax-NG validation</li><li><a href="libxml-schemasInternals.html">schemasInternals</a>: internal interfaces for XML Schemas</li><li><a href="libxml-schematron.html">schematron</a>: XML Schemastron implementation</li><li><a href="libxml-threads.html">threads</a>: interfaces for thread handling</li><li><a href="libxml-tree.html">tree</a>: interfaces for tree manipulation</li><li><a href="libxml-uri.html">uri</a>: library of generic URI related routines</li><li><a href="libxml-valid.html">valid</a>: The DTD validation</li><li><a href="libxml-xinclude.html">xinclude</a>: implementation of XInclude</li><li><a href="libxml-xlink.html">xlink</a>: unfinished XLink detection module</li><li><a href="libxml-xmlIO.html">xmlIO</a>: interface for the I/O interfaces used by the parser</li><li><a href="libxml-xmlautomata.html">xmlautomata</a>: API to build regexp automata</li><li><a href="libxml-xmlerror.html">xmlerror</a>: error handling</li><li><a href="libxml-xmlexports.html">xmlexports</a>: macros for marking symbols as exportable/importable.</li><li><a href="libxml-xmlmemory.html">xmlmemory</a>: interface for the memory allocator</li><li><a href="libxml-xmlmodule.html">xmlmodule</a>: dynamic module loading</li><li><a href="libxml-xmlreader.html">xmlreader</a>: the XMLReader implementation</li><li><a href="libxml-xmlregexp.html">xmlregexp</a>: regular expressions handling</li><li><a href="libxml-xmlsave.html">xmlsave</a>: the XML document serializer</li><li><a href="libxml-xmlschemas.html">xmlschemas</a>: incomplete XML Schemas structure implementation</li><li><a href="libxml-xmlschemastypes.html">xmlschemastypes</a>: implementation of XML Schema Datatypes</li><li><a href="libxml-xmlstring.html">xmlstring</a>: set of routines to process strings</li><li><a href="libxml-xmlunicode.html">xmlunicode</a>: Unicode character APIs</li><
+Libxml-list.html (doc\html):glist.cgi?product=libxml2">Bug Tracker</a></li></ul></td></tr></table></td></tr></table></td><td valign="top" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%"><tr><td><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table border="0" cellpadding="3" cellspacing="1" width="100%"><tr><td bgcolor="#fffacd"><table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2"><tr valign="middle"><td><a accesskey="p" href="libxml-hash.html"><img src="left.png" width="24" height="24" border="0" alt="Prev" /></a></td><th align="left"><a href="libxml-hash.html">hash</a></th><td><a accesskey="u" href="index.html"><img src="up.png" width="24" height="24" border="0" alt="Up" /></a></td><th align="left"><a href="index.html">API documentation</a></th><td><a accesskey="h" href="../index.html"><img src="home.png" width="24" height="24" border="0" alt="Home" /></a></td><th align="center"><a href="../index.html">The XML C parser and toolkit of Gnome</a></th><th align="right"><a href="libxml-nanoftp.html">nanoftp</a></th><td><a accesskey="n" href="libxml-nanoftp.html"><img src="right.png" width="24" height="24" border="0" alt="Next" /></a></td></tr></table><p>this module implement the list support used in various place in the library. </p><h2>Table of Contents</h2><pre class="programlisting">Structure <a href="#xmlLink">xmlLink</a><br />struct _xmlLink
+Libxml-tree.html (doc\html):    struct _xmlAttribute *	nexth	: next in hash table
+Libxml-tree.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	attsDefault	: defaulted attributes if any
+Libxml-tree.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	attsSpecial	: non-CDATA attributes if any
+Libxml-valid.html (doc\html):</pre><p>Deallocate the memory used by an entities hash table.</p>
+Libxml-valid.html (doc\html):</pre><p>Deallocate the memory used by an element hash table.</p>
+Libxml-valid.html (doc\html):</pre><p>Deallocate the memory used by an ID hash table.</p>
+Libxml-valid.html (doc\html):</pre><p>Deallocate the memory used by an entities hash table.</p>
+Libxml-valid.html (doc\html):</pre><p>Deallocate the memory used by an Ref hash table.</p>
+Libxml-xmlschemas.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	typeDecl
+Libxml-xmlschemas.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	attrDecl
+Libxml-xmlschemas.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	attrgrpDecl
+Libxml-xmlschemas.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	elemDecl
+Libxml-xmlschemas.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	notaDecl
+Libxml-xmlschemas.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	schemasImports
+Libxml-xmlschemas.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	groupDecl
+Libxml-xmlschemas.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	idcDef	: All identity-constraint defs.
+Libxml-xpath.html (doc\html):    int	nb_variables_unused	: unused (hash table)
+Libxml-xpath.html (doc\html):    int	max_variables_unused	: unused (hash table)
+Libxml-xpath.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	varHash	: Hash table of defined variables
+Libxml-xpath.html (doc\html):    int	nb_funcs_unused	: unused (hash table)
+Libxml-xpath.html (doc\html):    int	max_funcs_unused	: unused (hash table)
+Libxml-xpath.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	funcHash	: Hash table of defined funcs
+Libxml-xpath.html (doc\html):    <a href="libxml-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	nsHash	: The namespaces hash table
+Libxml.c (python):    /* For simplicity, we use the node pointer address as a hash value */
+Libxml2-api.xml (doc):    <file name='hash'>
+Libxml2-api.xml (doc):     <summary>Chained hash tables</summary>
+Libxml2-api.xml (doc):     <description>This module implements the hash table support used in various places in the library. </description>
+Libxml2-api.xml (doc):    <macro name='XML_CAST_FPTR' file='hash'>
+Libxml2-api.xml (doc):      <field name='nexth' type='struct _xmlAttribute *' info=' next in hash table'/>
+Libxml2-api.xml (doc):    <struct name='xmlHashTable' file='hash' type='struct _xmlHashTable'/>
+Libxml2-api.xml (doc):    <typedef name='xmlHashTablePtr' file='hash' type='xmlHashTable *'/>
+Libxml2-api.xml (doc):      <field name='nb_variables_unused' type='int' info=' unused (hash table)'/>
+Libxml2-api.xml (doc):      <field name='max_variables_unused' type='int' info=' unused (hash table)'/>
+Libxml2-api.xml (doc):      <field name='nb_funcs_unused' type='int' info=' unused (hash table)'/>
+Libxml2-api.xml (doc):      <field name='max_funcs_unused' type='int' info=' unused (hash table)'/>
+Libxml2-api.xml (doc):      <field name='nsHash' type='xmlHashTablePtr' info=' The namespaces hash table'/>
+Libxml2-api.xml (doc):      <info>Lookup the given entity in EntitiesTable  TODO: the linear scan is really ugly, an hash table is really needed.</info>
+Libxml2-api.xml (doc):      <info>Lookup the given entity in EntitiesTable  TODO: the linear scan is really ugly, an hash table is really needed.</info>
+Libxml2-api.xml (doc):      <info>create and initialize an empty entities hash table. This really doesn&apos;t make sense and should be deprecated</info>
+Libxml2-api.xml (doc):      <info>Free the hash @dict and its contents. The userdata is deallocated with @f if provided.</info>
+Libxml2-api.xml (doc):      <info>Add the QName @prefix:@name to the hash @dict if not present.</info>
+Libxml2-api.xml (doc):      <info>Query the number of elements installed in the hash @dict.</info>
+Libxml2-api.xml (doc):      <info>Deallocate the memory used by an entities hash table.</info>
+Libxml2-api.xml (doc):      <info>Deallocate the memory used by an element hash table.</info>
+Libxml2-api.xml (doc):      <info>Deallocate the memory used by an entities hash table.</info>
+Libxml2-api.xml (doc):      <info>Deallocate the memory used by an ID hash table.</info>
+Libxml2-api.xml (doc):      <info>Deallocate the memory used by an entities hash table.</info>
+Libxml2-api.xml (doc):      <info>Deallocate the memory used by an Ref hash table.</info>
+Libxml2-api.xml (doc):      <info>Do an entity lookup in the document entity hash table and</info>
+Libxml2-api.xml (doc):      <info>Do an entity lookup in the DTD entity hash table and</info>
+Libxml2-api.xml (doc):    <function name='xmlHashAddEntry' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Add the @userdata to the hash @table. This can later be retrieved by using the @name. Duplicate names generate errors.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashAddEntry2' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Add the @userdata to the hash @table. This can later be retrieved by using the (@name, @name2) tuple. Duplicate tuples generate errors.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashAddEntry3' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Add the @userdata to the hash @table. This can later be retrieved by using the tuple (@name, @name2, @name3). Duplicate entries generate errors.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <functype name='xmlHashCopier' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Callback to copy data from a hash.</info>
+Libxml2-api.xml (doc):      <arg name='payload' type='void *' info='the data in the hash'/>
+Libxml2-api.xml (doc):    <function name='xmlHashCopy' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Scan the hash @table and applied @f to each value.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):      <arg name='f' type='xmlHashCopier' info='the copier function for items in the hash'/>
+Libxml2-api.xml (doc):    <function name='xmlHashCreate' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <arg name='size' type='int' info='the size of the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashCreateDict' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <arg name='size' type='int' info='the size of the hash table'/>
+Libxml2-api.xml (doc):      <arg name='dict' type='xmlDictPtr' info='a dictionary to use for the hash'/>
+Libxml2-api.xml (doc):    <functype name='xmlHashDeallocator' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Callback to free data from a hash.</info>
+Libxml2-api.xml (doc):      <arg name='payload' type='void *' info='the data in the hash'/>
+Libxml2-api.xml (doc):    <function name='xmlHashFree' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Free the hash @table and its contents. The userdata is deallocated with @f if provided.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):      <arg name='f' type='xmlHashDeallocator' info='the deallocator function for items in the hash'/>
+Libxml2-api.xml (doc):    <function name='xmlHashLookup' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashLookup2' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashLookup3' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashQLookup' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashQLookup2' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashQLookup3' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashRemoveEntry' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Find the userdata specified by the @name and remove it from the hash @table. Existing userdata for this tuple will be removed and freed with @f.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashRemoveEntry2' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Find the userdata specified by the (@name, @name2) tuple and remove it from the hash @table. Existing userdata for this tuple will be removed and freed with @f.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashRemoveEntry3' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Find the userdata specified by the (@name, @name2, @name3) tuple and remove it from the hash @table. Existing userdata for this tuple will be removed and freed with @f.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashScan' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Scan the hash @table and applied @f to each value.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):      <arg name='f' type='xmlHashScanner' info='the scanner function for items in the hash'/>
+Libxml2-api.xml (doc):    <function name='xmlHashScan3' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Scan the hash @table and applied @f to each value matching (@name, @name2, @name3) tuple. If one of the names is null, the comparison is considered to match.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):      <arg name='f' type='xmlHashScanner' info='the scanner function for items in the hash'/>
+Libxml2-api.xml (doc):    <function name='xmlHashScanFull' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Scan the hash @table and applied @f to each value.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):      <arg name='f' type='xmlHashScannerFull' info='the scanner function for items in the hash'/>
+Libxml2-api.xml (doc):    <function name='xmlHashScanFull3' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Scan the hash @table and applied @f to each value matching (@name, @name2, @name3) tuple. If one of the names is null, the comparison is considered to match.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):      <arg name='f' type='xmlHashScannerFull' info='the scanner function for items in the hash'/>
+Libxml2-api.xml (doc):    <functype name='xmlHashScanner' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Callback when scanning data in a hash with the simple scanner.</info>
+Libxml2-api.xml (doc):      <arg name='payload' type='void *' info='the data in the hash'/>
+Libxml2-api.xml (doc):    <functype name='xmlHashScannerFull' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Callback when scanning data in a hash with the full scanner.</info>
+Libxml2-api.xml (doc):      <arg name='payload' type='void *' info='the data in the hash'/>
+Libxml2-api.xml (doc):    <function name='xmlHashSize' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Query the number of elements installed in the hash @table.</info>
+Libxml2-api.xml (doc):      <return type='int' info='the number of elements in the hash table or -1 in case of error'/>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashUpdateEntry' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Add the @userdata to the hash @table. This can later be retrieved by using the @name. Existing entry for this @name will be removed and freed with @f if found.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashUpdateEntry2' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Add the @userdata to the hash @table. This can later be retrieved by using the (@name, @name2) tuple. Existing entry for this tuple will be removed and freed with @f if found.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-api.xml (doc):    <function name='xmlHashUpdateEntry3' file='hash' module='hash'>
+Libxml2-api.xml (doc):      <info>Add the @userdata to the hash @table. This can later be retrieved by using the tuple (@name, @name2, @name3). Existing entry for this tuple will be removed and freed with @f if found.</info>
+Libxml2-api.xml (doc):      <arg name='table' type='xmlHashTablePtr' info='the hash table'/>
+Libxml2-dict.html (doc\devhelp):</pre><p>Free the hash @dict and its contents. The userdata is deallocated with @f if provided.</p>
+Libxml2-dict.html (doc\devhelp):</pre><p>Add the QName @prefix:@name to the hash @dict if not present.</p>
+Libxml2-dict.html (doc\devhelp):</pre><p>Query the number of elements installed in the hash @dict.</p>
+Libxml2-entities.html (doc\devhelp):</pre><p>create and initialize an empty entities hash table. This really doesn't make sense and should be deprecated</p>
+Libxml2-entities.html (doc\devhelp):</pre><p>Deallocate the memory used by an entities hash table.</p>
+Libxml2-entities.html (doc\devhelp):</pre><p>Do an entity lookup in the document entity hash table and</p>
+Libxml2-entities.html (doc\devhelp):</pre><p>Do an entity lookup in the DTD entity hash table and</p>
+Libxml2-globals.html (doc\devhelp):          <a accesskey="n" href="libxml2-hash.html">
+Libxml2-hash.html (doc\devhelp):    <title>hash: Chained hash tables</title>
+Libxml2-hash.html (doc\devhelp):      <span class="refentrytitle">hash</span>
+Libxml2-hash.html (doc\devhelp):    <p>hash - Chained hash tables</p>
+Libxml2-hash.html (doc\devhelp):    <p>This module implements the hash table support used in various places in the library. </p>
+Libxml2-hash.html (doc\devhelp):typedef <a href="libxml2-hash.html#xmlHashTable">xmlHashTable</a> * <a href="#xmlHashTablePtr">xmlHashTablePtr</a>;
+Libxml2-hash.html (doc\devhelp):void	<a href="#xmlHashScanFull">xmlHashScanFull</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 <a href="libxml2-hash.html#xmlHashScannerFull">xmlHashScannerFull</a> f, <br/>					 void * data);
+Libxml2-hash.html (doc\devhelp):void	<a href="#xmlHashScan">xmlHashScan</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 <a href="libxml2-hash.html#xmlHashScanner">xmlHashScanner</a> f, <br/>					 void * data);
+Libxml2-hash.html (doc\devhelp):<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	<a href="#xmlHashCreateDict">xmlHashCreateDict</a>	(int size, <br/>					 <a href="libxml2-dict.html#xmlDictPtr">xmlDictPtr</a> dict);
+Libxml2-hash.html (doc\devhelp):int	<a href="#xmlHashAddEntry">xmlHashAddEntry</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 void * userdata);
+Libxml2-hash.html (doc\devhelp):int	<a href="#xmlHashUpdateEntry">xmlHashUpdateEntry</a>		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 void * userdata, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f);
+Libxml2-hash.html (doc\devhelp):void *	<a href="#xmlHashQLookup3">xmlHashQLookup3</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix3, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3);
+Libxml2-hash.html (doc\devhelp):void *	<a href="#xmlHashQLookup2">xmlHashQLookup2</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2);
+Libxml2-hash.html (doc\devhelp):void	<a href="#xmlHashScan3">xmlHashScan3</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3, <br/>					 <a href="libxml2-hash.html#xmlHashScanner">xmlHashScanner</a> f, <br/>					 void * data);
+Libxml2-hash.html (doc\devhelp):<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	<a href="#xmlHashCreate">xmlHashCreate</a>		(int size);
+Libxml2-hash.html (doc\devhelp):void	<a href="#xmlHashFree">xmlHashFree</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f);
+Libxml2-hash.html (doc\devhelp):void *	<a href="#xmlHashLookup">xmlHashLookup</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name);
+Libxml2-hash.html (doc\devhelp):void *	<a href="#xmlHashQLookup">xmlHashQLookup</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name);
+Libxml2-hash.html (doc\devhelp):int	<a href="#xmlHashUpdateEntry2">xmlHashUpdateEntry2</a>		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 void * userdata, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f);
+Libxml2-hash.html (doc\devhelp):int	<a href="#xmlHashRemoveEntry2">xmlHashRemoveEntry2</a>		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f);
+Libxml2-hash.html (doc\devhelp):int	<a href="#xmlHashRemoveEntry3">xmlHashRemoveEntry3</a>		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f);
+Libxml2-hash.html (doc\devhelp):<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	<a href="#xmlHashCopy">xmlHashCopy</a>		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 <a href="libxml2-hash.html#xmlHashCopier">xmlHashCopier</a> f);
+Libxml2-hash.html (doc\devhelp):void	<a href="#xmlHashScanFull3">xmlHashScanFull3</a>		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3, <br/>					 <a href="libxml2-hash.html#xmlHashScannerFull">xmlHashScannerFull</a> f, <br/>					 void * data);
+Libxml2-hash.html (doc\devhelp):int	<a href="#xmlHashUpdateEntry3">xmlHashUpdateEntry3</a>		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3, <br/>					 void * userdata, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f);
+Libxml2-hash.html (doc\devhelp):void *	<a href="#xmlHashLookup3">xmlHashLookup3</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3);
+Libxml2-hash.html (doc\devhelp):void *	<a href="#xmlHashLookup2">xmlHashLookup2</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2);
+Libxml2-hash.html (doc\devhelp):int	<a href="#xmlHashRemoveEntry">xmlHashRemoveEntry</a>		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f);
+Libxml2-hash.html (doc\devhelp):int	<a href="#xmlHashAddEntry2">xmlHashAddEntry2</a>		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 void * userdata);
+Libxml2-hash.html (doc\devhelp):int	<a href="#xmlHashAddEntry3">xmlHashAddEntry3</a>		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3, <br/>					 void * userdata);
+Libxml2-hash.html (doc\devhelp):int	<a href="#xmlHashSize">xmlHashSize</a>			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table);
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashTablePtr">Typedef </a>xmlHashTablePtr</h3><pre class="programlisting"><a href="libxml2-hash.html#xmlHashTable">xmlHashTable</a> * xmlHashTablePtr;
+Libxml2-hash.html (doc\devhelp):</pre><p>Callback to copy data from a hash.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>payload</tt></i>:</span></td><td>the data in the hash</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name associated</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a copy of the data or NULL in case of error.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):</pre><p>Callback to free data from a hash.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>payload</tt></i>:</span></td><td>the data in the hash</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name associated</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):</pre><p>Callback when scanning data in a hash with the simple scanner.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>payload</tt></i>:</span></td><td>the data in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra scannner data</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name associated</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):</pre><p>Callback when scanning data in a hash with the full scanner.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>payload</tt></i>:</span></td><td>the data in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra scannner data</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name associated</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>the second name associated</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>the third name associated</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashAddEntry"/>xmlHashAddEntry ()</h3><pre class="programlisting">int	xmlHashAddEntry			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 void * userdata)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the @name. Duplicate names generate errors.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashAddEntry2"/>xmlHashAddEntry2 ()</h3><pre class="programlisting">int	xmlHashAddEntry2		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 void * userdata)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the (@name, @name2) tuple. Duplicate tuples generate errors.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashAddEntry3"/>xmlHashAddEntry3 ()</h3><pre class="programlisting">int	xmlHashAddEntry3		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3, <br/>					 void * userdata)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the tuple (@name, @name2, @name3). Duplicate entries generate errors.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashCopy"/>xmlHashCopy ()</h3><pre class="programlisting"><a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	xmlHashCopy		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 <a href="libxml2-hash.html#xmlHashCopier">xmlHashCopier</a> f)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Scan the hash @table and applied @f to each value.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the copier function for items in the hash</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the new table or NULL in case of error.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashCreate"/>xmlHashCreate ()</h3><pre class="programlisting"><a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	xmlHashCreate		(int size)<br/>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>size</tt></i>:</span></td><td>the size of the hash table</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the newly created object, or NULL if an error occured.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashCreateDict"/>xmlHashCreateDict ()</h3><pre class="programlisting"><a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	xmlHashCreateDict	(int size, <br/>					 <a href="libxml2-dict.html#xmlDictPtr">xmlDictPtr</a> dict)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Create a new <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> which will use @dict as the internal dictionary</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>size</tt></i>:</span></td><td>the size of the hash table</td></tr><tr><td><span class="term"><i><tt>dict</tt></i>:</span></td><td>a dictionary to use for the hash</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the newly created object, or NULL if an error occured.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashFree"/>xmlHashFree ()</h3><pre class="programlisting">void	xmlHashFree			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Free the hash @table and its contents. The userdata is deallocated with @f if provided.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for items in the hash</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashLookup"/>xmlHashLookup ()</h3><pre class="programlisting">void *	xmlHashLookup			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name)<br/>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the pointer to the userdata</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashLookup2"/>xmlHashLookup2 ()</h3><pre class="programlisting">void *	xmlHashLookup2			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2)<br/>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the pointer to the userdata</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashLookup3"/>xmlHashLookup3 ()</h3><pre class="programlisting">void *	xmlHashLookup3			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3)<br/>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the a pointer to the userdata</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashQLookup"/>xmlHashQLookup ()</h3><pre class="programlisting">void *	xmlHashQLookup			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name)<br/>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>prefix</tt></i>:</span></td><td>the prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the pointer to the userdata</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashQLookup2"/>xmlHashQLookup2 ()</h3><pre class="programlisting">void *	xmlHashQLookup2			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2)<br/>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>prefix</tt></i>:</span></td><td>the prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>prefix2</tt></i>:</span></td><td>the second prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the pointer to the userdata</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashQLookup3"/>xmlHashQLookup3 ()</h3><pre class="programlisting">void *	xmlHashQLookup3			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * prefix3, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3)<br/>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>prefix</tt></i>:</span></td><td>the prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>prefix2</tt></i>:</span></td><td>the second prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>prefix3</tt></i>:</span></td><td>the third prefix of the userdata</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the a pointer to the userdata</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashRemoveEntry"/>xmlHashRemoveEntry ()</h3><pre class="programlisting">int	xmlHashRemoveEntry		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Find the userdata specified by the @name and remove it from the hash @table. Existing userdata for this tuple will be removed and freed with @f.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for removed item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 if the removal succeeded and -1 in case of error or not found.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashRemoveEntry2"/>xmlHashRemoveEntry2 ()</h3><pre class="programlisting">int	xmlHashRemoveEntry2		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Find the userdata specified by the (@name, @name2) tuple and remove it from the hash @table. Existing userdata for this tuple will be removed and freed with @f.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for removed item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 if the removal succeeded and -1 in case of error or not found.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashRemoveEntry3"/>xmlHashRemoveEntry3 ()</h3><pre class="programlisting">int	xmlHashRemoveEntry3		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Find the userdata specified by the (@name, @name2, @name3) tuple and remove it from the hash @table. Existing userdata for this tuple will be removed and freed with @f.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for removed item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 if the removal succeeded and -1 in case of error or not found.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashScan"/>xmlHashScan ()</h3><pre class="programlisting">void	xmlHashScan			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 <a href="libxml2-hash.html#xmlHashScanner">xmlHashScanner</a> f, <br/>					 void * data)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Scan the hash @table and applied @f to each value.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the scanner function for items in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra data passed to f</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashScan3"/>xmlHashScan3 ()</h3><pre class="programlisting">void	xmlHashScan3			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3, <br/>					 <a href="libxml2-hash.html#xmlHashScanner">xmlHashScanner</a> f, <br/>					 void * data)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Scan the hash @table and applied @f to each value matching (@name, @name2, @name3) tuple. If one of the names is null, the comparison is considered to match.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the scanner function for items in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra data passed to f</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashScanFull"/>xmlHashScanFull ()</h3><pre class="programlisting">void	xmlHashScanFull			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 <a href="libxml2-hash.html#xmlHashScannerFull">xmlHashScannerFull</a> f, <br/>					 void * data)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Scan the hash @table and applied @f to each value.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the scanner function for items in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra data passed to f</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashScanFull3"/>xmlHashScanFull3 ()</h3><pre class="programlisting">void	xmlHashScanFull3		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3, <br/>					 <a href="libxml2-hash.html#xmlHashScannerFull">xmlHashScannerFull</a> f, <br/>					 void * data)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Scan the hash @table and applied @f to each value matching (@name, @name2, @name3) tuple. If one of the names is null, the comparison is considered to match.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata or NULL</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the scanner function for items in the hash</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>extra data passed to f</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashSize"/>xmlHashSize ()</h3><pre class="programlisting">int	xmlHashSize			(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Query the number of elements installed in the hash @table.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the number of elements in the hash table or -1 in case of error</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashUpdateEntry"/>xmlHashUpdateEntry ()</h3><pre class="programlisting">int	xmlHashUpdateEntry		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 void * userdata, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the @name. Existing entry for this @name will be removed and freed with @f if found.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for replaced item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashUpdateEntry2"/>xmlHashUpdateEntry2 ()</h3><pre class="programlisting">int	xmlHashUpdateEntry2		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 void * userdata, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the (@name, @name2) tuple. Existing entry for this tuple will be removed and freed with @f if found.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for replaced item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div></div>
+Libxml2-hash.html (doc\devhelp):        <div class="refsect2" lang="en"><h3><a name="xmlHashUpdateEntry3"/>xmlHashUpdateEntry3 ()</h3><pre class="programlisting">int	xmlHashUpdateEntry3		(<a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a> table, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name2, <br/>					 const <a href="libxml2-xmlstring.html#xmlChar">xmlChar</a> * name3, <br/>					 void * userdata, <br/>					 <a href="libxml2-hash.html#xmlHashDeallocator">xmlHashDeallocator</a> f)<br/>
+Libxml2-hash.html (doc\devhelp):</pre><p>Add the @userdata to the hash @table. This can later be retrieved by using the tuple (@name, @name2, @name3). Existing entry for this tuple will be removed and freed with @f if found.</p>
+Libxml2-hash.html (doc\devhelp):<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>table</tt></i>:</span></td><td>the hash table</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the name of the userdata</td></tr><tr><td><span class="term"><i><tt>name2</tt></i>:</span></td><td>a second name of the userdata</td></tr><tr><td><span class="term"><i><tt>name3</tt></i>:</span></td><td>a third name of the userdata</td></tr><tr><td><span class="term"><i><tt>userdata</tt></i>:</span></td><td>a pointer to the userdata</td></tr><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the deallocator function for replaced item (if any)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 the addition succeeded and -1 in case of error.</td></tr></tbody></table></div></div>
+libxml2-HTMLparser.html (doc\devhelp):</pre><p>Lookup the given entity in EntitiesTable TODO: the linear scan is really ugly, an hash table is really needed.</p>
+libxml2-HTMLparser.html (doc\devhelp):</pre><p>Lookup the given entity in EntitiesTable TODO: the linear scan is really ugly, an hash table is really needed.</p>
+Libxml2-list.html (doc\devhelp):          <a accesskey="p" href="libxml2-hash.html">
+Libxml2-tree.html (doc\devhelp):    struct _xmlAttribute *	nexth	: next in hash table
+Libxml2-tree.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	attsDefault	: defaulted attributes if any
+Libxml2-tree.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	attsSpecial	: non-CDATA attributes if any
+Libxml2-valid.html (doc\devhelp):</pre><p>Deallocate the memory used by an entities hash table.</p>
+Libxml2-valid.html (doc\devhelp):</pre><p>Deallocate the memory used by an element hash table.</p>
+Libxml2-valid.html (doc\devhelp):</pre><p>Deallocate the memory used by an ID hash table.</p>
+Libxml2-valid.html (doc\devhelp):</pre><p>Deallocate the memory used by an entities hash table.</p>
+Libxml2-valid.html (doc\devhelp):</pre><p>Deallocate the memory used by an Ref hash table.</p>
+Libxml2-xmlschemas.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	typeDecl
+Libxml2-xmlschemas.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	attrDecl
+Libxml2-xmlschemas.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	attrgrpDecl
+Libxml2-xmlschemas.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	elemDecl
+Libxml2-xmlschemas.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	notaDecl
+Libxml2-xmlschemas.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	schemasImports
+Libxml2-xmlschemas.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	groupDecl
+Libxml2-xmlschemas.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	idcDef	: All identity-constraint defs.
+Libxml2-xpath.html (doc\devhelp):    int	nb_variables_unused	: unused (hash table)
+Libxml2-xpath.html (doc\devhelp):    int	max_variables_unused	: unused (hash table)
+Libxml2-xpath.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	varHash	: Hash table of defined variables
+Libxml2-xpath.html (doc\devhelp):    int	nb_funcs_unused	: unused (hash table)
+Libxml2-xpath.html (doc\devhelp):    int	max_funcs_unused	: unused (hash table)
+Libxml2-xpath.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	funcHash	: Hash table of defined funcs
+Libxml2-xpath.html (doc\devhelp):    <a href="libxml2-hash.html#xmlHashTablePtr">xmlHashTablePtr</a>	nsHash	: The namespaces hash table
+News.html (doc):    Add hash randomization to hash and dict structures (Daniel Veillard),
+News.html (doc):      parsing if attribute redeclared, avoid crash in hash list scanner if
+News.html (doc):    hash tables, Schemas Identity constraints (Kasimier), streaming XPath
+News.html (doc):    xmlWriter (Alfred Mickautsch), hash.h inclusion problem, HTML parser
+News.html (doc):  <li>new hash functions and performances: Sander Vesik, portability fix from
+News.html (doc):  <li>small extension of the hash table interfaces for DOM gdome2
+News.html (doc):</ul><h3>2.2.6: Oct 25 2000:</h3><ul><li>Added an hash table module, migrated a number of internal structure to
+Parser.h (include\libxml):#include <libxml/hash.h>
+Pattern.c:#include <libxml/hash.h>
+REC-xml-19980210.xml (result\valid):add prose note saying that hash marks and fragment identifiers are
+REC-xml-19980210.xml (result\valid):Note that the hash mark (<code>#</code>) and fragment identifier 
+REC-xml-19980210.xml (test\valid):add prose note saying that hash marks and fragment identifiers are
+REC-xml-19980210.xml (test\valid):Note that the hash mark (<code>#</code>) and fragment identifier 
+Relaxng.c:#include <libxml/hash.h>
+Relaxng.c:    xmlRelaxNGDefinePtr nextHash;       /* next define in defs/refs hash tables */
+Relaxng.c:    xmlHashTablePtr triage;     /* hash table used to direct nodes to the
+Relaxng.c:     * push it on the stack and register it in the hash table
+Relaxng.c:                       "Failed to add %s to hash table\n",
+Relaxng.c:                       "Could not create definition hash\n", NULL, NULL);
+Relaxng.c:                   "Could not create references hash\n", NULL, NULL);
+Relaxng.c:                       "Could not create references hash\n", NULL, NULL);
+Relaxng.c:                       "Could not create references hash\n", NULL, NULL);
+Relaxng.c:                       "Failed to create interleaves hash table\n", NULL,
+Relaxng.c:                           "Failed to add %s to hash table\n",
+Relaxng.c:                       "Failed to create interleaves hash table\n", NULL,
+Relaxng.c:                           "Failed to add %s to hash table\n",
+Relaxng.h (include\libxml):#include <libxml/hash.h>
+schemasInternals.h (include\libxml):#include <libxml/hash.h>
+Symbols.xml (doc):    <symbol file="hash">xmlHashAddEntry</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashAddEntry2</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashAddEntry3</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashCopy</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashCreate</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashFree</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashLookup</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashLookup2</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashLookup3</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashRemoveEntry</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashRemoveEntry2</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashRemoveEntry3</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashScan</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashScan3</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashScanFull</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashScanFull3</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashSize</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashUpdateEntry</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashUpdateEntry2</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashUpdateEntry3</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashQLookup2</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashQLookup3</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashQLookup</symbol>
+Symbols.xml (doc):    <symbol file="hash">xmlHashCreateDict</symbol>
+Testapi.c:#include <libxml/hash.h>
+Testapi.c:#include <libxml/hash.h>
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    xmlHashTablePtr table; /* the hash table */
+Testapi.c:    if (quiet == 0) printf("Testing hash : 16 of 24 functions ...\n");
+Testapi.c:	printf("Module hash: %d errors\n", test_ret);
+Testapi.c:    if (!strcmp(module, "hash")) return(test_hash());
+Tree.c:#include <libxml/hash.h>
+Tree.c: * Do an entity lookup in the DTD entity hash table and
+Tree.c: * Do an entity lookup in the DTD pararmeter entity hash table and
+Tree.h (include\libxml):    struct _xmlAttribute  *nexth;	/* next in hash table */
+Triostr.c:   Calculate a hash value for a string.
+Triostr.c:   @return Calculated hash value.
+Triostr.c:   @li @c TRIO_HASH_PLAIN Plain hash function.
+Tutor11_1_3.xml (test\relaxng):add prose note saying that hash marks and fragment identifiers are
+Tutor11_1_3.xml (test\relaxng):Note that the hash mark (<code>#</code>) and fragment identifier 
+Valid.c:#include <libxml/hash.h>
+Valid.c:/* TODO: use hash table for accesses to elem and attribute definitions */
+Valid.c: * Deallocate the memory used by an element hash table.
+Valid.c: * This routine is used by the hash scan function.  It just reverses
+Valid.c: * Deallocate the memory used by an entities hash table.
+Valid.c: * This is used with the hash scan function - just reverses arguments
+Valid.c: * Deallocate the memory used by an entities hash table.
+Valid.c: * This is called with the hash scan function, and just reverses args
+Valid.c: * Deallocate the memory used by an ID hash table.
+Valid.c: * Deallocate the memory used by an Ref hash table.
+Valid.c:    /*If the list is empty then remove the list entry in the hash */
+Xml.html (doc):    Add hash randomization to hash and dict structures (Daniel Veillard),
+Xml.html (doc):      parsing if attribute redeclared, avoid crash in hash list scanner if
+Xml.html (doc):    hash tables, Schemas Identity constraints (Kasimier), streaming XPath
+Xml.html (doc):    xmlWriter (Alfred Mickautsch), hash.h inclusion problem, HTML parser
+Xml.html (doc):  <li>new hash functions and performances: Sander Vesik, portability fix from
+Xml.html (doc):  <li>small extension of the hash table interfaces for DOM gdome2
+Xml.html (doc):  <li>Added an hash table module, migrated a number of internal structure to
+Xmlreader.c: * Deallocate the memory used by an ID hash table.
+Xmlregexp.c:    unsigned short key;	/* the hash key */
+Xmlregexp.c:    xmlExpNodePtr next;/* the next node in the hash table or free list */
+Xmlregexp.c: *  The custom hash table for unicity and canonicalization		*
+Xmlregexp.c: * Calculate the hash key for a token
+Xmlregexp.c: * Calculate the hash key for a compound expression
+Xmlregexp.c: * @table: the hash table
+Xmlregexp.c: * Get the unique entry from the hash table. The entry is created if
+Xmlregexp.c:        /* Unlink it first from the hash table */
+Xmlschemas.c:#include <libxml/hash.h>
+Xmlschemas.c:		"failed to add the schema bucket to the hash");
+Xmlschemas.c:    /* Init subst group hash. */
+Xmlschemas.c:    /* Add subst group to hash. */
+Xmlschemas.c:    * Add global components to the schema's hash tables.
+Xmlschemas.c:		    "failed to create a component hash table");
+Xmlschemas.c:    * Add global components to the schemata's hash tables.
+Xmlschemastypes.c:#include <libxml/hash.h>
+Xpath.c:#include <libxml/hash.h>
+Xpath.c:    xmlHashTablePtr hash;
+Xpath.c:    hash = xmlHashCreate (l);
+Xpath.c:	if (xmlHashLookup(hash, strval) == NULL) {
+Xpath.c:	    xmlHashAddEntry(hash, strval, strval);
+Xpath.c:    xmlHashFree(hash, (xmlHashDeallocator) xmlFree);
+Xpath.c: * Returns an int usable as a hash
+Xpath.c: * Returns an int usable as a hash
+Xpath.c:    unsigned int hash;
+Xpath.c:    hash = xmlXPathStringHash(str);
+Xpath.c:        if (xmlXPathNodeValHash(ns->nodeTab[i]) == hash) {
+Xpath.h (include\libxml):#include <libxml/hash.h>
+Xpath.h (include\libxml): * Following the switch to hash tables, this need to be trimmed up at
+Xpath.h (include\libxml):    int nb_variables_unused;		/* unused (hash table) */
+Xpath.h (include\libxml):    int max_variables_unused;		/* unused (hash table) */
+Xpath.h (include\libxml):    int nb_funcs_unused;		/* unused (hash table) */
+Xpath.h (include\libxml):    int max_funcs_unused;		/* unused (hash table) */
+Xpath.h (include\libxml):    xmlHashTablePtr nsHash;		/* The namespaces hash table */
